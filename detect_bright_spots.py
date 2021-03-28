@@ -1,3 +1,4 @@
+#python detect_bright_spots.py --image images/lights_01.png
 # import the necessary packages
 from imutils import contours
 from skimage import measure
